@@ -57,9 +57,6 @@
 
 ---
 
-### 🐍 Contribution Crawler
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hasan-20/hasan-20/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/hasan-20/hasan-20/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;" />
 </p>
-
-<p align="right"><i>"My dotfiles are more stable than my sleep schedule."</i> 🐧</p>
