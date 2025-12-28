@@ -42,14 +42,6 @@
 
 ---
 
-### 📊 System Diagnostics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-20&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
-
 ### 🌌 3D Contribution Universe
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
