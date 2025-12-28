@@ -11,8 +11,8 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      # We switched to the original creator's stable action
-      - uses: yoshi382/github-profile-3d-contrib@0.7.1
+      # CORRECTED USERNAME BELOW: yoshi389111
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
