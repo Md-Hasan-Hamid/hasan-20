@@ -3,7 +3,7 @@
 
   <br/>
   
-  <img src="https://res.cloudinary.com/djnlmglll/image/upload/v1764043734/Adobe_Express_-_file_u2ufqo.png" width="150" style="border-radius: 50%;" />
+  <img src="https://res.cloudinary.com/djnlmglll/image/upload/v1764043734/Adobe_Express_-_file_u2ufqo.png" width="400" style="border-radius: 50%;" />
   
   <br/><br/>
 
@@ -11,7 +11,7 @@
   
   <br/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=I+use+Arch+btw...+%F0%9F%90%A7;Building+Premium+E-Commerce+Experiences;Supabase+%2B+Firebase+%2B+Vercel+Stack)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=true&width=450&lines=I+use+Arch+btw...+🐧;Building+E-Commerce+Experiences;Supabase+%2B+Firebase+%2B+Vercel)](https://git.io/typing-svg)
 
   <br/>
 
@@ -106,16 +106,13 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan-20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-20&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="49%" />
+  ![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-20&show_icons=true&theme=radical&hide_border=true)
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" width="40%" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-20&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
