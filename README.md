@@ -1,54 +1,160 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Hasan%20Hamid&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Hasan%20Hamid&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
 
-  ### ⚡ Senior Full-Stack Developer | Arch & NixOS Power User
+  <br/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=I+use+Arch+btw...;NixOS+Flake+Enthusiast;Full-Stack+E-Commerce+Expert;Supabase+%2B+Firebase+Wizard;Cloud+Infrastructure+Engineer)](https://git.io/typing-svg)
+  <img src="https://res.cloudinary.com/djnlmglll/image/upload/v1764043734/Adobe_Express_-_file_u2ufqo.png" width="150" style="border-radius: 50%;" />
+  
+  <br/><br/>
+
+  ### ⚡ Full-Stack Developer · Linux Power User · Creative Coder
+  
+  <br/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=I+use+Arch+btw...+%F0%9F%90%A7;Building+Premium+E-Commerce+Experiences;Supabase+%2B+Firebase+%2B+Vercel+Stack)](https://git.io/typing-svg)
+
+  <br/>
+
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-19--hasan.vercel.app-000000?style=for-the-badge&labelColor=0d1117)](https://19-hasan.vercel.app)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_19.hasan_/)
+  [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@_19.hasan_)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918581964479)
+
 </div>
 
 ---
 
-### 🛠 The Tech Stack
+<br/>
 
-**🖥️ OS & Desktop Environments**
-![](https://img.shields.io/badge/Arch_Linux-17a2b8?style=for-the-badge&logo=arch-linux&logoColor=white)
-![](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![](https://img.shields.io/badge/Hyprland-00a2ff?style=for-the-badge&logo=wayland&logoColor=white)
-![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+## 🖥️ System & Environment
 
-**🗄️ Backend & Cloud Infrastructure**
-![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<div align="center">
 
-**🚀 Frontend & Tools**
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+```
+  ╭─────────────────────────────────────────────────────────╮
+  │                                                         │
+  │   OS        →  Arch Linux / NixOS                       │
+  │   WM        →  Hyprland                                 │
+  │   Terminal  →  Kitty                                    │
+  │   Shell     →  Zsh + Starship                           │
+  │   Editor    →  Neovim + VS Code                         │
+  │   Browser   →  Firefox / Brave                          │
+  │                                                         │
+  ╰─────────────────────────────────────────────────────────╯
+```
 
----
+</div>
 
-### 📂 Featured Production Projects
+<br/>
 
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **🛡️ [Aether Shield](https://aether-shield.vercel.app)** | Next.js + Cloud | Advanced E-commerce & Shielding solution. |
-| **🏭 [Moti Plastic](https://motiplastic-co.vercel.app)** | Full-Stack | Industrial B2B E-commerce platform. |
-| **👟 [Puma E-Com](https://puma-ecom.vercel.app)** | Firebase + React | High-performance retail experience. |
-| **🎲 [Bingo IO](https://bingo-io.vercel.app)** | Real-time | Interactive gaming & web platform. |
-| **🌐 [Portfolio](https://19-hasan.vercel.app)** | Next.js | Modern personal landing page. |
-
----
-
-### 🌌 3D Contribution Universe
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
 </p>
 
 ---
 
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🚀 Frontend & Frameworks
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### 🗄️ Backend & Cloud
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### ⚙️ Tools & Workflow
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|:-------:|:------------|:-----:|
+| 🛡️ [**Aether Shield**](https://aether-shield.vercel.app) | Ultra-luxury raincoat e-commerce | Next.js, Tailwind |
+| 🌸 [**Aura Bloom**](https://aura-bloom-pi.vercel.app) | Premium attar & perfume boutique | Next.js, Supabase |
+| 👟 [**Puma E-Com**](https://puma-ecom.vercel.app) | Futuristic sportswear store | React, Firebase |
+| 🏭 [**Moti Plastic**](https://motiplastic-co.vercel.app) | Industrial B2B e-commerce | Full-Stack |
+| 🎮 [**Grid Royale**](https://bingo-io.vercel.app) | Strategic grid-based game | JavaScript |
+| ✨ [**Portfolio**](https://19-hasan.vercel.app) | Interactive portfolio with WebGL | HTML, Three.js |
+
+</div>
+
+---
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=hasan-20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-20&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="49%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" width="40%" />
+
+</div>
+
+---
+
+<br/>
+
+## 🌌 Contribution Graph
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hasan-20/hasan-20/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan-20&theme=react-dark&hide_border=true&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff" width="100%" />
 </p>
+
+---
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hasan-20/hasan-20/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<br/>
+
+<div align="center">
+
+  ### 💬 Random Dev Quote
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+  <br/>
+
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=hasan-20&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%2300b4d8)
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer" width="100%" />
+
+</div>
