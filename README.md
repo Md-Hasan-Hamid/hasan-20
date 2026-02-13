@@ -15,11 +15,11 @@
 <div align="center">
 
 ╭────────────────────────────────────────────╮  
-│ OS        → Arch Linux / NixOS             │  
-│ WM        → Hyprland                       │  
+│ OS        → Arch Linux / NixOS              │  
+│ WM        → Hyprland                        │  
 │ Terminal  → Kitty                          │  
-│ Shell     → Zsh + Starship                 │  
-│ Editor    → Neovim + VS Code               │  
+│ Shell     → Zsh + Starship                  │  
+│ Editor    → Neovim + VS Code                │  
 │ Browser   → Firefox / Brave                │  
 ╰────────────────────────────────────────────╯  
 
@@ -57,12 +57,13 @@
 
 | Project | Description | Stack |
 |-------|-------------|-------|
-| 🧥 Shade & Shield | Premium raincoat e-commerce | Next.js · Tailwind |
-| 🎓 Saini-XII '25-26 | School batch photo album | Next.js · Framer |
-| 🛡️ Aether Shield | Ultra-luxury raincoats | Next.js · Tailwind |
-| 🌸 Aura Bloom | Attar & perfume boutique | Next.js · Supabase |
-| 👟 Puma E-Com | Futuristic sportswear store | React · Firebase |
-| 🏭 Moti Plastic | Industrial B2B platform | Full-Stack |
+| 🧥 <a href="https://shade-and-shield.vercel.app/" target="_blank">Shade & Shield</a> | Premium raincoat e-commerce | Next.js · Tailwind |
+| 🎓 <a href="https://saini-xii-2025-26.vercel.app/" target="_blank">Saini-XII '25-26</a> | School batch photo album | Next.js · Framer |
+| 💡 <a href="https://bingo-io.vercel.app/" target="_blank">Bingo.io</a> | Smart web utility platform | Next.js |
+| 🏭 <a href="https://motiplastic-co.vercel.app/" target="_blank">Moti Plastic</a> | Industrial B2B e-commerce | Full-Stack |
+| 👟 <a href="https://puma-ecom.vercel.app/" target="_blank">Puma E-Com</a> | Futuristic sportswear store | React · Firebase |
+| 🛡️ <a href="https://aether-shield.vercel.app/" target="_blank">Aether Shield</a> | Ultra-luxury raincoats | Next.js · Tailwind |
+| 🌸 <a href="https://aura-bloom-pi.vercel.app/" target="_blank">Aura Bloom</a> | Attar & perfume boutique | Next.js · Supabase |
 
 </div>
 
