@@ -15,11 +15,11 @@
 <div align="center">
 
 ╭────────────────────────────────────────────╮  
-│ OS        → Arch Linux / NixOS              │  
-│ WM        → Hyprland                        │  
+│ OS        → Arch Linux / NixOS             │  
+│ WM        → Hyprland                       │  
 │ Terminal  → Kitty                          │  
-│ Shell     → Zsh + Starship                  │  
-│ Editor    → Neovim + VS Code                │  
+│ Shell     → Zsh + Starship                 │  
+│ Editor    → Neovim + VS Code               │  
 │ Browser   → Firefox / Brave                │  
 ╰────────────────────────────────────────────╯  
 
@@ -71,8 +71,8 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Hasan-Hamid&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Hasan-Hamid&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Md-Hasan-Hamid&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Hasan-Hamid&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -80,30 +80,8 @@
 ## 🌌 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Hasan-Hamid&theme=react-dark&hide_border=true&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Hasan-Hamid&theme=react-dark&hide_border=true&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff" width="100%"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Mr-Hasan-Hamid/Mr-Hasan-Hamid/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🎧🖥️ Music × Terminal Mode
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&background_color=0d1117&bar_color=00b4d8&bar_color_cover=false"/>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="600"/>
-
-</div>
 
 ---
 
