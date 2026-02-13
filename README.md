@@ -30,18 +30,17 @@
 
 <div align="center">
 
-```
-  ╭─────────────────────────────────────────────────────────╮
-  │                                                         │
-  │   OS        →  Arch Linux / NixOS                       │
-  │   WM        →  Hyprland                                 │
-  │   Terminal  →  Kitty                                    │
-  │   Shell     →  Zsh + Starship                           │
-  │   Editor    →  Neovim + VS Code                         │
-  │   Browser   →  Firefox / Brave                          │
-  │                                                         │
-  ╰─────────────────────────────────────────────────────────╯
-```
+╭─────────────────────────────────────────────────────────╮
+│                                                         │
+│   OS        →  Arch Linux / NixOS                        │
+│   WM        →  Hyprland                                  │
+│   Terminal  →  Kitty                                     │
+│   Shell     →  Zsh + Starship                            │
+│   Editor    →  Neovim + VS Code                          │
+│   Browser   →  Firefox / Brave                           │
+│                                                         │
+╰─────────────────────────────────────────────────────────╯
+
 
 </div>
 
@@ -93,12 +92,13 @@
 
 | Project | Description | Stack |
 |:-------:|:------------|:-----:|
+| 🧥 [**Shade & Shield**](https://shade-and-shield.vercel.app/) | Premium raincoat e-commerce store | Next.js, Tailwind |
+| 🎓 [**Saini-XII '25-26**](https://saini-xii-2025-26.vercel.app/) | Graduate school batch photo album | Next.js, Framer |
 | 🛡️ [**Aether Shield**](https://aether-shield.vercel.app) | Ultra-luxury raincoat e-commerce | Next.js, Tailwind |
 | 🌸 [**Aura Bloom**](https://aura-bloom-pi.vercel.app) | Premium attar & perfume boutique | Next.js, Supabase |
 | 👟 [**Puma E-Com**](https://puma-ecom.vercel.app) | Futuristic sportswear store | React, Firebase |
 | 🏭 [**Moti Plastic**](https://motiplastic-co.vercel.app) | Industrial B2B e-commerce | Full-Stack |
-| 🎮 [**Grid Royale**](https://bingo-io.vercel.app) | Strategic grid-based game | JavaScript |
-| ✨ [**Portfolio**](https://19-hasan.vercel.app) | Interactive portfolio with WebGL | HTML, Three.js |
+| ✨ [**Coming Soon**]() | Third project placeholder | TBD |
 
 </div>
 
